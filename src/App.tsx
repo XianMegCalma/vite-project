@@ -4,7 +4,7 @@ import './App.css';
 const App: React.FC = () => {
   return (
     <div className="container">
-      <h1 className="name">Kodai Kato</h1>
+      <h1 className="name">Xian Meg Calma</h1>
       <div className="box">
         <p>CPEITEL</p>
       </div>
